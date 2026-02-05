@@ -40,6 +40,7 @@
 1. 部署 CF Worker：
    - 在 CF Worker 控制台中创建一个新的 Worker。
    - 将 [worker.js](https://github.com/cmliu/edgetunnel/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
+   - [混淆网站](https://www.lddgo.net/encrypt/js)
    - 在左侧的 `设置`选项卡中，选择 `变量` > `添加变量`。
      变量名称填写**ADMIN**，值则为你的管理员密码，后点击 `保存`即可。
 
